@@ -23,7 +23,7 @@ Make sure you have Node.js and npm installed.
 ## Clone the repository
 
 ```
-[git clone : https://github.com/vishalh09/React-Giffy.git ](https://github.com/vishalh09/video-caption-tool.git)  
+git clone : https://github.com/vishalh09/React-Giffy.git 
 
 ```
 
